@@ -1,0 +1,10 @@
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerColumnstoreSample/bin/Debug/netcoreapp2.0/SqlServerColumnstoreSample.deps.json
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerColumnstoreSample/bin/Debug/netcoreapp2.0/SqlServerColumnstoreSample.runtimeconfig.json
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerColumnstoreSample/bin/Debug/netcoreapp2.0/SqlServerColumnstoreSample.runtimeconfig.dev.json
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerColumnstoreSample/bin/Debug/netcoreapp2.0/SqlServerColumnstoreSample.dll
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerColumnstoreSample/bin/Debug/netcoreapp2.0/SqlServerColumnstoreSample.pdb
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.csproj.CoreCompileInputs.cache
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.AssemblyInfoInputs.cache
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.AssemblyInfo.cs
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.dll
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.pdb

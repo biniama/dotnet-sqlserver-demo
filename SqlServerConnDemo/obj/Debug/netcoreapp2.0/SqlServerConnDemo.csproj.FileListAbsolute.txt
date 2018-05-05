@@ -1,0 +1,10 @@
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerConnDemo/bin/Debug/netcoreapp2.0/SqlServerConnDemo.deps.json
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerConnDemo/bin/Debug/netcoreapp2.0/SqlServerConnDemo.runtimeconfig.json
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerConnDemo/bin/Debug/netcoreapp2.0/SqlServerConnDemo.runtimeconfig.dev.json
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerConnDemo/bin/Debug/netcoreapp2.0/SqlServerConnDemo.dll
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerConnDemo/bin/Debug/netcoreapp2.0/SqlServerConnDemo.pdb
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerConnDemo/obj/Debug/netcoreapp2.0/SqlServerConnDemo.csproj.CoreCompileInputs.cache
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerConnDemo/obj/Debug/netcoreapp2.0/SqlServerConnDemo.AssemblyInfoInputs.cache
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerConnDemo/obj/Debug/netcoreapp2.0/SqlServerConnDemo.AssemblyInfo.cs
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerConnDemo/obj/Debug/netcoreapp2.0/SqlServerConnDemo.dll
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerConnDemo/obj/Debug/netcoreapp2.0/SqlServerConnDemo.pdb

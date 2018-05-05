@@ -1,0 +1,10 @@
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerEFSample/bin/Debug/netcoreapp2.0/SqlServerEFSample.deps.json
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerEFSample/bin/Debug/netcoreapp2.0/SqlServerEFSample.runtimeconfig.json
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerEFSample/bin/Debug/netcoreapp2.0/SqlServerEFSample.runtimeconfig.dev.json
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerEFSample/bin/Debug/netcoreapp2.0/SqlServerEFSample.dll
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerEFSample/bin/Debug/netcoreapp2.0/SqlServerEFSample.pdb
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerEFSample/obj/Debug/netcoreapp2.0/SqlServerEFSample.csproj.CoreCompileInputs.cache
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerEFSample/obj/Debug/netcoreapp2.0/SqlServerEFSample.AssemblyInfoInputs.cache
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerEFSample/obj/Debug/netcoreapp2.0/SqlServerEFSample.AssemblyInfo.cs
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerEFSample/obj/Debug/netcoreapp2.0/SqlServerEFSample.dll
+/Users/biniamasnake/samples/dotnet-sqlserver-demo/SqlServerEFSample/obj/Debug/netcoreapp2.0/SqlServerEFSample.pdb
